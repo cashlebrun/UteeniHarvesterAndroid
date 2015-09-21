@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Uteeni Harvester App</string>
+    <string name="login">LOGIN</string>
+    <string name="my_listing">My Listings:</string>
+    <string name="action_settings">Settings</string>
+    <string name="cat">Cat</string>
+</resources>
